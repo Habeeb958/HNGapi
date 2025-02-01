@@ -12,13 +12,13 @@ namespace HNGAPI.Controllers
         {
             var response = new
             {
-                RegisteredEmail = "akoredehabeeb958@gmail.com",
-                CurrentDateTime = DateTime.UtcNow.ToString("o"),
-                GitHubURL = "https://github.com/Habeeb958/HNG12PublicAPI.git" // Replace with your GitHub repo URL
+                email = "akoredehabeeb958@gmail.com",
+                current_datetime = DateTime.UtcNow.ToString("o"),
+                github_url = "https://github.com/Habeeb958/HNGapi" // Replace with your GitHub repo URL
             };
 
             return Ok(response);
         }
-    
+
     }
 }
