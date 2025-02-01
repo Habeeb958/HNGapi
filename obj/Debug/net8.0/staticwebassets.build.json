@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7Z1TDDM7RHkVNc2kYqhnNLZlvdnqpkNyfKKIVvg+10k=",
+  "Source": "HNGAPI",
+  "BasePath": "_content/HNGAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
