@@ -35,3 +35,4 @@ C:\Users\akore\source\repos\HNG12API\MyFolder\HNGAPI\HNGAPI\obj\Debug\net8.0\HNG
 C:\Users\akore\source\repos\HNG12API\MyFolder\HNGAPI\HNGAPI\obj\Debug\net8.0\HNGAPI.genruntimeconfig.cache
 C:\Users\akore\source\repos\HNG12API\MyFolder\HNGAPI\HNGAPI\obj\Debug\net8.0\ref\HNGAPI.dll
 C:\Users\akore\source\repos\HNG12API\MyFolder\HNGAPI\HNGAPI\obj\Debug\net8.0\HNGAPI.sourcelink.json
+C:\Users\akore\source\repos\HNG12API\MyFolder\HNGAPI\HNGAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
